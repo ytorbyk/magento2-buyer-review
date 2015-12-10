@@ -1,0 +1,13 @@
+/**
+ * Copyright © 2015 ToBai. All rights reserved.
+ */
+
+.review-list .purchased-icon{
+    padding-left: 25px;
+    background: url("Tobai_BuyerReview::images/purchased.png") no-repeat;
+}
+
+.review-list .review-details-purchased{
+    font-size: 12px;
+    color: #999999;
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 ToBai. All rights reserved.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <tobai_buyer_review>
+            <general>
+                <active>0</active>
+                <show_icon>1</show_icon>
+                <show_text>1</show_text>
+                <text>(already purchased)</text>
+            </general>
+        </tobai_buyer_review>
+    </default>
+</config>

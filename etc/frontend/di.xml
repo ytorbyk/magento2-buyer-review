@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 ToBai. All rights reserved.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="Magento\Review\Block\Product\View\ListView" type="Tobai\BuyerReview\Block\Review\ListView" />
+</config>
